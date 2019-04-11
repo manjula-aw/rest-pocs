@@ -1,5 +1,6 @@
 # rest-pocs
 This repo contains POCs on possible vulnerabilities related to REST and related technologies.
+:alien: 
 
 1. Check whether JSON REST API accidentally allow XML payloads
 1. JSON injection
